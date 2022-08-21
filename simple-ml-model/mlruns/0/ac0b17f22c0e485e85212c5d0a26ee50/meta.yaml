@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhilash/ML_flow/simple-ml-model/mlruns/0/ac0b17f22c0e485e85212c5d0a26ee50/artifacts
+end_time: 1661095789443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ac0b17f22c0e485e85212c5d0a26ee50
+run_uuid: ac0b17f22c0e485e85212c5d0a26ee50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661095787045
+status: 3
+tags: []
+user_id: abhilash

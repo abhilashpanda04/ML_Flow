@@ -1,0 +1,11 @@
+name: ml_flow
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      alpha: {type: float,default: 0.5}
+      l1_ratio: {type: float,default: 0.5}
+
+    command: python model.py -a {alpha} -l1 {l1_ratio}
